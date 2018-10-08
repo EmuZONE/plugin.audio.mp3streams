@@ -1,0 +1,16 @@
+<strings>
+	<!-- Settings -->
+    <string id="10011">Wähle den Goldenen Pfad</string>
+    <string id="10007">Benutze alternative Gotham Spielmethode (Pre-Cache)</string>
+    <string id="10008">Anzahl der Cache Pakete</string>
+    <string id="10010">Behalte alle heruntergeladenen Titel</string>
+    <string id="10000">Benutzerdefiniertes Musikverzeichnis</string>
+    <string id="10001">Musikverzeichnis</string>
+    <string id="10009">Artist/Album Verzeichnis Struktur</string>
+    <string id="10002">Titel bei Auswahl hinzufügen</string>
+    <string id="10003">Alben bei Auswahl hinzufügen</string>
+    <string id="10004">W�hle XBMC Player</string>
+    <string id="10005">Benutze alternative Quellen (deaktiviert, wenn Pre-Cache aktiviert ist)</string>
+    <string id="10006">Fanart bei der Wiedergabe ausblenden</string>
+    
+</strings>
