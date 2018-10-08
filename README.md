@@ -1,1 +1,1 @@
-# plugin.audio.mp3streams
+# MP3 STREAMS (XBMC Plugin)
